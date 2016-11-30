@@ -20,6 +20,9 @@ public class Class {
             System.out.print( (lessons.toArray()[i]) + " " );
     }
 
+            /* С помощью итератора for (Iterator iter = set3.iterator(); iter.hasNext();) {
+        System.out.print(iter.next() + ", ");*/
+    }
 
 
 }
